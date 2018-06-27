@@ -1,3 +1,5 @@
+![Trevor and Cory](https://i.redditmedia.com/yS1a8y5RbIBCdkW27Uj9UbI330asVSydmc_jPYEY7G0.png?s=b282e59aad2ac74c2d29d8642f9c4e4c)
+
 # Trevor Lahey
 
 Javascript bookmark that merges a PR using the squash commit strategy. The commit title
