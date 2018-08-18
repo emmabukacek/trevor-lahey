@@ -1,5 +1,4 @@
 (function() {
-  const token = '**Changes**';
   const searchIndexWaterfall = (text, ...args) => {
     const matchingRegex = args.find(regex => text.search(regex) !== -1);
     if (!matchingRegex) return text;
